@@ -39,4 +39,5 @@ int main(){
         s += a[i] * b[i];
     }
     cout << s;
+    return 0;
 }
